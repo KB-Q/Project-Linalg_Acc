@@ -2,7 +2,7 @@
 
 This the master repository for the source code of the project "A RISC-V based Linear Algebra accelerator for SoC designs", as part of the EE2003 course in IIT Madras. 
 
-**Project member:** Karthik Balaji, EP18B033.
+**Project member: Karthik Balaji, EP18B033.**
 
 The source code is organized into the following:
 
