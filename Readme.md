@@ -1,4 +1,4 @@
-# A RISC-V based Linear Algebra accelerator for SoC designs
+# A RISC-V based Linear Algebra accelerator for SoCs
 
 This the master repository for the source code of the project "A RISC-V based Linear Algebra accelerator for SoC designs", as part of the EE2003 course in IIT Madras. 
 
