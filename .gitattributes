@@ -1,2 +1,2 @@
 * linguist-vendored
-*.js linguist-vendored=false
+*.c .cc .cpp .h linguist-vendored=false
